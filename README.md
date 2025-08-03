@@ -14,7 +14,7 @@
 </pre>
 </div>
 <pre>
- ~> <strong>finger LasalH</strong>
+ ~> <strong>cat LasalH.yml</strong>
 
 Login:  <span style="color: #ff79c6">LasalH</span>                          Username: <span style="color: #ff79c6">CandyPanda99 </span> 
 Designation: Software/AI Engineer       Company: SyscoLABS Srilanka
