@@ -59,10 +59,10 @@ I'm a passionate <span style="color: #ff79c6">Software/AI Engineer</span> from S
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <a href="https://github.com/CandyPanda99">
-        <img src="https://github-readme-stats.vercel.app/api?username=CandyPanda99&show_icons=true&rank_icon=github&theme=transparent&title_color=808080&icon_color=808080&text_color=ffffff&border_color=808080&bg_color=00000000" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=CandyPanda99&show_icons=true&rank_icon=github&theme=vue" alt="GitHub Stats" />
       </a>
   <a href="https://github.com/CandyPanda99">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyPanda99&layout=compact&theme=transparent&title_color=808080&icon_color=808080&text_color=ffffff&border_color=808080&bg_color=00000000" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CandyPanda99&layout=compact&theme=vue" alt="Top Languages" />
   </a>
 </div>
 
