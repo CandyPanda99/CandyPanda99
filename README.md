@@ -37,9 +37,11 @@ Future Learnings: <span style="color: #8be9fd"> [Blockchain (backend)]</span>
 
  Hobbies: ["Movies", "Cricket", "Gaming"]
 
-Project:
-   - <a href="https://github.com/hedyhli/outline.nvim">outline.nvim</a>
-   - <a href="https://github.com/hedyhli/cognate-playground">an online playground</a> for the Cognate programming language
+[//]: # (Project:)
+
+[//]: # (   - <a href="https://github.com/hedyhli/outline.nvim">outline.nvim</a>)
+
+[//]: # (   - <a href="https://github.com/hedyhli/cognate-playground">an online playground</a> for the Cognate programming language)
 </pre>
 <pre style="white-space: pre-wrap; word-wrap: break-word;">
  ~> <strong>cat about.me</strong>
